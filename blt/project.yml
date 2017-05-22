@@ -10,7 +10,7 @@ project:
 git:
   default_branch: master
   remotes: 
-   - git@github.com:mprajwala/blttest.git
+   - https://mprajwala:prajwala1232@github.com/mprajwala/blttest.git
 drush:
   aliases:
     remote: '${project.machine_name}.test'
