@@ -10,6 +10,7 @@ project:
 git:
   default_branch: master
   remotes: 
+   - prblttest1@svn-6609.devcloud.hosting.acquia.com:prblttest1.git
    - https://mprajwala:prajwala1232@github.com/mprajwala/blttest.git
 drush:
   aliases:
