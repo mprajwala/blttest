@@ -1,7 +1,7 @@
 project:
   machine_name: blttest1
   prefix: BLT
-  human_name: 'BLTed 8'
+  human_name: 'BLT TEST'
   profile:
     name: lightning
   local:
